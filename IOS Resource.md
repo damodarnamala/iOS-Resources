@@ -34,7 +34,7 @@
 
 
 ## CI/CD
-- GitHub: (https://github.com/)
+- GitHub Actions: (https://github.com/marketplace/actions/ios-build-action)
 - AppCenter: (https://docs.microsoft.com/en-us/appcenter/sdk/getting-started/ios)
 - Jenkins: (https://plugins.jenkins.io/xcode-plugin/)
 - CircleCI: (https://circleci.com/docs/2.0/ios-tutorial/)
@@ -43,4 +43,4 @@
 ## Development Methodologies 
 - Agile (https://www.atlassian.com/agile/manifesto)
 - Water-fall (https://www.workfront.com/project-management/methodologies/waterfall)
-- Six Sigma (DMAIC, DMADV) (https://www.geeksforgeeks.org/six-sigma-in-software-engineering/)
+- Six Sigma (DMAIC, DMADV) Ref: (https://www.geeksforgeeks.org/six-sigma-in-software-engineering/)
