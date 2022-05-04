@@ -7,7 +7,7 @@
 
 
 ## Package Manager/ Dependency Manager
-- SPM Swift Package Manager: (https://github.com/apple/swift-package-manager)
+- SPM / Swift Package Manager: (https://github.com/apple/swift-package-manager)
 - Cocoapods: (https://cocoapods.org/)
 - Carthage: (https://github.com/Carthage/Carthage)
 
@@ -27,6 +27,7 @@
 - MetricKit: (https://developer.apple.com/documentation/metrickit)
 - SonarQube: (https://docs.sonarqube.org/latest/analysis/languages/swift/)
 
+
 ## Version Control
 - Git: (https://git-scm.com/)
 - SVN:
@@ -39,7 +40,7 @@
 - CircleCI: (https://circleci.com/docs/2.0/ios-tutorial/)
 - Bitrise: (https://devcenter.bitrise.io/en/getting-started/getting-started-with-ios-apps.html)
 
-Development Methodologies 
+## Development Methodologies 
 - Agile (https://www.atlassian.com/agile/manifesto)
 - Water-fall (https://www.workfront.com/project-management/methodologies/waterfall)
 - Six Sigma (DMAIC, DMADV) (https://www.geeksforgeeks.org/six-sigma-in-software-engineering/)
