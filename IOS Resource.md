@@ -4,8 +4,10 @@
 - XCode IDE
 - Swift: (https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) 
 - SwiftUI: (https://developer.apple.com/tutorials/swiftui)
-
-
+- EnvironmenKey: (https://nilcoalescing.com/blog/CustomEnvironmentValuesInSwiftUI/)
+- Codable confirmance: (https://nilcoalescing.com/blog/CodableConformanceForSwiftEnumsWithMultipleAssociatedValuesOfDifferentTypes/)
+- Undo in SwiftUI: (https://nilcoalescing.com/blog/HandlingUndoAndRedoInSwiftUI/)
+- Keyboard: (https://nilcoalescing.com/blog/ScrollTextFieldIntoVisibleRange/)
 ## Package Manager/ Dependency Manager
 - SPM / Swift Package Manager: (https://github.com/apple/swift-package-manager)
 - Cocoapods: (https://cocoapods.org/)
