@@ -6,3 +6,5 @@
 ### 4. https://dev.srdanstanic.com/ (Google Firebase, crashlitics)
 ### 5. https://medium.com/@vixentael (App Security)
 ### 6. https://www.youtube.com/watch?v=QQBcfYWbKz4 (Configurable views)
+### 5. https://www.youtube.com/watch?v=329aAWL9lXo&list=PL7weO9nEuGlYOyRgA_ax312sA5DClMDth&index=3 (Styling UI Components, theme )
+
